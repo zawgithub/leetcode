@@ -20,181 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be36c322-2ece-4625-9951-a74b13a94e6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/EventListenerDemo/EventSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/EventListenerDemo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/EventListenerDemo/MyEventListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/EventListenerDemo/MyEventObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/simpleAopDemo/Advice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/simpleAopDemo/BeforeAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/simpleAopDemo/HelloService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/simpleAopDemo/MethodInvocation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/simpleAopDemo/SimpleAOP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/simpleAopDemo/SimpleAOPTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/单例/Singleton2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/LinkList/分割链表_86.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/LinkList/重排链表_143.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/array/分割数组_915.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/array/四数之和II_454.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/array/字符串相乘_43.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/array/最大间距_164.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/array/长度最小的子数组_209.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/dfs/单词搜索_79.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/doubleindex/在排序数组中查找元素的第一个和最后一个位置_34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/doubleindex/最大连续1的个数III_1004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/doubleindex/最接近的三数之和_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/doubleindex/至少有K个重复字符的最长子串_395.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/dp/俄罗斯套娃信封问题_354.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/dp/分割字符串_132.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/dp/单词拆分_139.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/dp/比特位计数_338.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/greedy/重构字符串_767.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/stack/删除字符串中的所有相邻重复项_1047.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/stack/找出最具竞争力的子序列_5614.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/tree/从中序与后序遍历序列构造二叉树_106.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/tree/序列化和反序列化二叉搜索树_449.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/组合之和III_216.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/dp/超级丑数_313.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/queue/RecentCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/DivideAndConquer/为运算表达式设计优先级_241.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/DivideAndConquer/戳气球_312.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/DivideAndConquer/搜索二维数组II_240.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/DivideAndConquer/搜索循环排序数组II_81.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/DivideAndConquer/计算右侧小于当前元素的个数_315.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/LinkList/反转链表_206$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/LinkList/反转链表_206.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/三个数的最大乘积_628.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/和为k的子数组_560.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/求众数II_229.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/求众数_169.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/漂亮数组_932.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/矩阵置零_73.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/跳跃游戏II_45.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/跳跃游戏_55.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dfs/N皇后_51.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dfs/京东生日礼物.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dfs/全排列II_47.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dfs/全排列_46.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dfs/判断二分图_785.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dfs/是否存在路径.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dfs/机器人移动范围.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dfs/组合之和_39.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dfs/组合总和II_40.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dfs/被围绕的区域_130.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/doubleindex/乘积小于k的子数组_713.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/doubleindex/删除排序数组中的重复项II_80.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/doubleindex/有序矩阵中第K小的元素_378.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/doubleindex/缺失的第一个正数_41.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/不同的二叉搜索树_96.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/乘积最大子序列_152.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/买卖股票的最佳时机III_123.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/回文子串_647.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/完全平方数_279.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/戳气球_312.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/打家劫舍III_337$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/打家劫舍III_337.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/打家劫舍II_213.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/打家劫舍_198.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/数字消去.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/无重复字符的最长子串_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/最大正方形_221.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/最长重复子数组_718.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/构造回文串.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/正则匹配_dp解法_10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/正则匹配_递归解法.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/编辑距离_72.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dp/零钱兑换_322.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/heap/区间最大重合次数.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/heap/合并区间_56$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/heap/合并区间_56$Interval.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/heap/合并区间_56.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/math/两数相除_29.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/queue/滑动窗口最大值_239.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/quicksort/数组中的第k个最大元素_215.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/quicksort/颜色分类_75.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/stack/二叉树的后序遍历_145$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/stack/二叉树的后序遍历_145.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/stack/接雨水_42.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/stack/最大矩形_85.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/stack/直方图下最大矩形_84.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/unionfind/冗余连接_684.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/unionfind/岛屿的个数_200.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/unionfind/最长连续序列_128.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/unionfind/朋友圈_547.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DivideAndConquer/为运算表达式设计优先级_241.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/DivideAndConquer/为运算表达式设计优先级_241.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DivideAndConquer/戳气球_312.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/DivideAndConquer/戳气球_312.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DivideAndConquer/搜索二维数组II_240.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/DivideAndConquer/搜索二维数组II_240.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DivideAndConquer/搜索循环排序数组II_81.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/DivideAndConquer/搜索循环排序数组II_81.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DivideAndConquer/计算右侧小于当前元素的个数_315.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/DivideAndConquer/计算右侧小于当前元素的个数_315.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IODemo/BIO/HelloClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo/IODemo/BIO/HelloClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IODemo/BIO/HelloServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo/IODemo/BIO/HelloServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IODemo/BIO/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo/IODemo/BIO/Message.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IODemo/NIO/NIODemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo/IODemo/NIO/NIODemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkList/反转链表II_92.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/LinkList/反转链表II_92.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkList/反转链表_206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/LinkList/反转链表_206.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/三个数的最大乘积_628.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/array/三个数的最大乘积_628.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/下一个排列_31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/array/下一个排列_31.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/和为k的子数组_560.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/array/和为k的子数组_560.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/求众数II_229.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/array/求众数II_229.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/求众数_169.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/array/求众数_169.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/漂亮数组_932.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/array/漂亮数组_932.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/矩阵置零_73.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/array/矩阵置零_73.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/跳跃游戏II_45.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/array/跳跃游戏II_45.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/跳跃游戏_55.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/array/跳跃游戏_55.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dfs/N皇后_51.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dfs/N皇后_51.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dfs/京东生日礼物.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dfs/京东生日礼物.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dfs/全排列II_47.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dfs/全排列II_47.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dfs/全排列_46.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dfs/全排列_46.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dfs/分割回文串_131.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dfs/分割回文串_131.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dfs/判断二分图_785.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dfs/判断二分图_785.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dfs/是否存在路径.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dfs/是否存在路径.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dfs/机器人移动范围.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dfs/机器人移动范围.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dfs/求跟到叶子节点数字之和_129.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dfs/求跟到叶子节点数字之和_129.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dfs/组合_77.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dfs/组合_77.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dfs/组合之和_39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dfs/组合之和_39.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dfs/组合总和II_40.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dfs/组合总和II_40.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dfs/被围绕的区域_130.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dfs/被围绕的区域_130.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/doubleindex/乘积小于k的子数组_713.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/doubleindex/乘积小于k的子数组_713.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/doubleindex/删除排序数组中的重复项II_80.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/doubleindex/删除排序数组中的重复项II_80.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/doubleindex/有序矩阵中第K小的元素_378.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/doubleindex/有序矩阵中第K小的元素_378.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/doubleindex/缺失的第一个正数_41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/doubleindex/缺失的第一个正数_41.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dp/不同的二叉搜索树_96.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dp/不同的二叉搜索树_96.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dp/乘积最大子序列_152.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dp/乘积最大子序列_152.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dp/买卖股票的最佳时机III_123.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dp/买卖股票的最佳时机III_123.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dp/回文子串_647.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dp/回文子串_647.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dp/完全平方数_279.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dp/完全平方数_279.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dp/戳气球_312.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dp/戳气球_312.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dp/打家劫舍III_337.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dp/打家劫舍III_337.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dp/打家劫舍II_213.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dp/打家劫舍II_213.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dp/打家劫舍_198.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dp/打家劫舍_198.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dp/数字消去.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dp/数字消去.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dp/无重复字符的最长子串_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dp/无重复字符的最长子串_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dp/最大正方形_221.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dp/最大正方形_221.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dp/最长重复子数组_718.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dp/最长重复子数组_718.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dp/构造回文串.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dp/构造回文串.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dp/正则匹配_dp解法_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dp/正则匹配_dp解法_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dp/正则匹配_递归解法.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dp/正则匹配_递归解法.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dp/编辑距离_72.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dp/编辑距离_72.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dp/零钱兑换_322.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dp/零钱兑换_322.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heap/区间最大重合次数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/heap/区间最大重合次数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heap/合并区间_56.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/heap/合并区间_56.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/两数相除_29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/math/两数相除_29.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/queue/滑动窗口最大值_239.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/queue/滑动窗口最大值_239.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/quicksort/数组中的第k个最大元素_215.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/quicksort/数组中的第k个最大元素_215.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/quicksort/颜色分类_75.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/quicksort/颜色分类_75.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stack/二叉树的后序遍历_145.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/stack/二叉树的后序遍历_145.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stack/接雨水_42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/stack/接雨水_42.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stack/最大矩形_85.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/stack/最大矩形_85.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stack/直方图下最大矩形_84.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/stack/直方图下最大矩形_84.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stack/验证二叉搜索树_98.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/stack/验证二叉搜索树_98.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unionfind/冗余连接_684.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/unionfind/冗余连接_684.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unionfind/岛屿的个数_200.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/unionfind/岛屿的个数_200.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unionfind/最长连续序列_128.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/unionfind/最长连续序列_128.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unionfind/朋友圈_547.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/unionfind/朋友圈_547.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/单例/Singleton1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo/单例/Singleton1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/META-INF/leetcode.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,7 +56,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1diSbBbTc8cMlu6pmHaIyveRgFp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -240,7 +74,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaGuide-main" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -250,7 +84,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -261,7 +95,7 @@
       <recent name="E:\IdeaProjects\leetcode\src\dp" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.和为k的子数组_560">
+  <component name="RunManager" selected="Application.超级丑数_313">
     <configuration name="Object" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java.lang.Object" />
       <module name="leetcode" />
@@ -282,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="分割字符串_132" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.dp.分割字符串_132" />
+    <configuration name="超级丑数_313" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.dp.超级丑数_313" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -323,14 +157,15 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.超级丑数_313" />
         <item itemvalue="Application.和为k的子数组_560" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Object" />
         <item itemvalue="Application.序列化和反序列化二叉搜索树_449" />
-        <item itemvalue="Application.分割字符串_132" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -417,85 +252,6 @@
       </map>
     </option>
   </component>
-  <component name="WindowStateProjectService">
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1615995542966">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1615995542966" />
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1615739052057">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1615739052057" />
-    <state width="442" height="466" key="DebuggerActiveHint" timestamp="1616507189692">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="442" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1616507189692" />
-    <state x="601" y="100" key="FileChooserDialogImpl" timestamp="1617155850898">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="601" y="100" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1617155850898" />
-    <state x="601" y="100" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1615823368213" />
-    <state width="1493" height="239" key="GridCell.Tab.0.bottom" timestamp="1617106852126">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="158" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1616054091487" />
-    <state width="1493" height="239" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617106852126" />
-    <state width="1493" height="239" key="GridCell.Tab.0.center" timestamp="1617106852125">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="158" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1616054091486" />
-    <state width="1493" height="239" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1617106852125" />
-    <state width="1493" height="239" key="GridCell.Tab.0.left" timestamp="1617106852125">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="158" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1616054091486" />
-    <state width="1493" height="239" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1617106852125" />
-    <state width="1493" height="239" key="GridCell.Tab.0.right" timestamp="1617106852126">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="158" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1616054091486" />
-    <state width="1493" height="239" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1617106852126" />
-    <state width="1493" height="239" key="GridCell.Tab.1.bottom" timestamp="1617106852126">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="39" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1615548447687" />
-    <state width="1493" height="239" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617106852126" />
-    <state width="1493" height="239" key="GridCell.Tab.1.center" timestamp="1617106852126">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="39" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1615548447686" />
-    <state width="1493" height="239" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1617106852126" />
-    <state width="1493" height="239" key="GridCell.Tab.1.left" timestamp="1617106852126">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="39" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1615548447686" />
-    <state width="1493" height="239" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1617106852126" />
-    <state width="1493" height="239" key="GridCell.Tab.1.right" timestamp="1617106852126">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="39" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1615548447686" />
-    <state width="1493" height="239" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1617106852126" />
-    <state x="384" y="114" key="SettingsEditor" timestamp="1623744635584">
-      <screen x="0" y="25" width="1792" height="1023" />
-    </state>
-    <state x="384" y="114" key="SettingsEditor/0.25.1792.1023@0.25.1792.1023" timestamp="1623744635584" />
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1617155818702">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1617155818702" />
-    <state x="60" y="15" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1616507665252">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="60" y="15" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1616507665252" />
-    <state x="447" y="150" width="642" height="524" key="find.popup" timestamp="1616507108044">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="447" y="150" width="642" height="524" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1616507108044" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1616325373274">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1616325373274" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -513,6 +269,11 @@
           <url>file://$PROJECT_DIR$/src/leetcode/dp/分割字符串_132.java</url>
           <line>53</line>
           <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/dp/超级丑数_313.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="37" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
